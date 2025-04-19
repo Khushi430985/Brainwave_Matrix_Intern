@@ -1,8 +1,4 @@
 # Brainwave_Matrix_Intern
-Agar transaction functionality bhi add ki hai, toh README ko update kar ke yeh likh sakte hain:
-
-
----
 
 ATM Interface – Task 1
 
@@ -61,4 +57,5 @@ javac ATM.java
 java ATM
 
 Author
+
 This project is completed as part of Task 1 for the Java Programming Internship at Brainwave Matrix Solutions.
